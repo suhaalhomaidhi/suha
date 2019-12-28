@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title> suha blog </title>
+        <link href="css/simplelightbox.min.css" type="text/css" rel="stylesheet">
+        <link href="css/style.css" type="text/css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Catamaran&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/19df12001f.js" crossorigin="anonymous"></script>
+    </head>
+    <body id="home">
+        <!-- header nav -->
+        <nav class="navbar">
+         <div class="container">
+            <h1 class="logo">Blog</h1>
+            <ul class="nav"> 
+                <li><a href="my blog.ht">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#artical">Aritcal</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+            </ul>
+         </div>
+     </nav>
+
+     <!-- show case -->
+     <section class="section-a">
+         <div class="container">
+             <div>
+                 <h1>Suha's Blog </h1>
+                 <p> here i can shear it with you all my knolege
+                    Let's get to know each other 
+                 </p>
+                 <a href="#about" class="btn">Let's Go </a>
+             </div>
+             <img src="img/pic7.png" alt=""/>
+         </div>
+     </section>
+<!-- cards  -->
+<section class="section-b">
+    <div class="container">
+       
+        <div class="card">
+            <a href="post blog.html">
+            <img src="img/pic8.png"/>
+            <div class="card-content">
+                <h1>Self-Improvement </h1>
+                <p>The Beginner’s Guide to Continuous Self-Improvement</p>
+            </a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="post blog.html">
+            <img src="img/pic8.png"/>
+            <div class="card-content">
+                <h1>Self-Improvement </h1>
+                <p>The Beginner’s Guide to Continuous Self-Improvement</p>
+            </a>
+            </div>
+        </div>
+         <div class="card">
+            <a href="post blog.html">
+            <img src="img/pic8.png"/>
+            <div class="card-content">
+                <h1>Self-Improvement </h1>
+                <p>The Beginner’s Guide to Continuous Self-Improvement</p>
+            </a>
+            </div>
+        </div>
+        <div class="card">
+            <a href="post blog.html">
+            <img src="img/pic8.png"/>
+            <div class="card-content">
+                <h1>Self-Improvement </h1>
+                <p>The Beginner’s Guide to Continuous Self-Improvement</p>
+            </a>
+            </div>
+        </div>
+                
+    </div>
+<!-- footer -->
+<footer class="section-footer">
+    <div class="container">
+        <div>
+            <h2>Lorem ipsum dolor sit</h2>
+            <a href="http://twitter.com">
+                 <i class="fab fa-twitter fa-2x"></i>
+            </a>
+            <a href="http://facebook.com">
+                <i class="fab fa-facebook fa-2x"></i>
+            </a>
+            <a href="http://linkedin.com">
+                <i class="fab fa-linkedin fa-2x"></i>
+            </a>
+        </div>
+        <div>
+            <h3>company info </h3>
+            <ul> 
+                <li><a href="#about">About</a></li>
+                <li><a href="#artical">Aritcal</a></li>
+                <li><a href="#gallery">Privacy Policy</a></li>
+                <li><a href="#gallery">Terms of Service</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3>Blog Posts</h3>
+            <ul>
+            <li><a href="#about">lorem</a></li>
+            <li><a href="#artical">lorem</a></li>
+            <li><a href="#gallery">lorem</a></li>
+            <li><a href="#gallery">lorem</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+    </body>
+</html>
